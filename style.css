@@ -8,3 +8,10 @@ footer {
     height: 350px;
     width: auto;
 }
+
+@media screen and (max-768px) {
+    #companylogo {
+        visibility: hidden;
+    }
+
+}
