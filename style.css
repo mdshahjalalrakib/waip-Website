@@ -2,3 +2,9 @@
     top: 60%;
     transform: translateY(-50%);
 }
+
+footer {
+    background: #161616;
+    height: 350px;
+    width: auto;
+}
